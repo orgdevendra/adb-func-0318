@@ -9,5 +9,5 @@
       "connection": "Endpoint=sb://servicebus-topic-03-18.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=05RDkAWZtI6Z6EBy59py9h1PInh3BbNhN+ASbOzh8/c="
     }
   ],
-  "scriptFile": "function_app.py"
+  "scriptFile": "functionapp.py"
 }
