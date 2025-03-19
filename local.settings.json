@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SERVICE_BUS_CONNECTION_STR": "Endpoint=sb://servicebus-topic-03-18.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=05RDkAWZtI6Z6EBy59py9h1PInh3BbNhN+ASbOzh8/c=",
+    "WEBPUBSUB_CONNECTION_STR": "Endpoint=https://webpub0318.webpubsub.azure.com;AccessKey=EKkUmtHah3LtgmWMG6tFQYq0O2uCizSTgxMASdLxI5UQ5gMFehYfJQQJ99BCACmepeSXJ3w3AAAAAWPS2C8P;Version=1.0;",
+    "ServiceBusTopicName": "wind_topic",
+    "ServiceBusSubscriptionName": "wind_topic"
+  }
+}
